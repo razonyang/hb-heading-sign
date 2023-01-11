@@ -1,0 +1,5 @@
+[module.hugoVersion]
+extended = true
+
+[[module.imports]]
+path = "github.com/razonyang/hb"
